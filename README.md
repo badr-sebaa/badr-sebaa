@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badr-sebaa&label=Profile%20views&color=0e75b6&style=flat" alt="badr-sebaa" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://badr-sebaa.students-laplateforme.io/](https://badr-sebaa.students-laplateforme.io/)
+- 👨‍💻 All of my projects are available at [)
 
-- 📫 How to reach me **badr.sebaa@laplateforme.io**
+- 📫 How to reach me 
 
-- 📄 Know about my experiences [https://github.com/badr-sebaa/CV/blob/main/CV%20BADR%20SEBAA.pdf](https://github.com/badr-sebaa/CV/blob/main/CV%20BADR%20SEBAA.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
